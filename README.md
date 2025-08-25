@@ -8,7 +8,9 @@ Iris Flower Classifier (Machine Learning + Streamlit) A simple Machine Learning 
 Technologies Used: Python 3.12 Pandas, Scikit-learn, Joblib Streamlit (for the web interface) Dataset Used This project uses the Iris Flower Dataset, one of the most well-known datasets in machine learning. Source: Preloaded in scikit-learn (sklearn.datasets.load_iris()) Number of Samples: 150 flowers Features (4 total): Sepal Length (cm) Sepal Width (cm) Petal Length (cm) Petal Width (cm) Target Classes (3 flower types): Setosa Versicolor Virginica The goal of this project is to predict the species of a flower based on its sepal and petal measurements.
 
 Author: T Krishna kiran – B.Tech Final Year Student
+
 Source Link :- https://iris-classifier-ml-m79ikvw2c2gstpfcooecwq.streamlit.app/
+
 
 
 
